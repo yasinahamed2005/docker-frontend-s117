@@ -1,4 +1,4 @@
-:import axios from "axios";
+import axios from "axios";
 
 const API_URL = "http://ec2-54-224-122-95.compute-1.amazonaws.com:8081/auth";
 
